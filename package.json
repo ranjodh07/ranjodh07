@@ -1,0 +1,11 @@
+{
+  "name": "ranjodh07",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Starter project with a zero-dependency test suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT"
+}
