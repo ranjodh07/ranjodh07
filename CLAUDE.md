@@ -6,9 +6,10 @@
 - Ask yes/no questions when you need me to choose.
 
 ## My goals
-- Make YouTube Shorts and videos from my own hunting footage (I don't have footage yet).
-- Maybe earn money from YouTube later.
-- Learn to build fun things with code.
+- Main goal: make money and save time. Help me find and build things that earn money efficiently.
+- One idea: YouTube Shorts and videos from my own hunting footage (I don't have footage yet).
+- Be honest about what is realistic. No get-rich-quick schemes or anything risky or against the rules.
+- Learn to build useful things with code.
 
 ## Video rules
 - Shorts: tall phone shape (1080x1920), under 60 seconds, strong hook at the start, captions.
